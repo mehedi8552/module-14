@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "imagePath": "images/employ-1.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+      "position": "Senior Marketing Manager"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "imagePath": "images/employ-2.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+      "position": "Lead Developer"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "imagePath": "images/employ-3.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+      "position": "Human Resources Director"
+    },
+    {
+      "id": 4,
+      "name": "Alice Williams",
+      "imagePath": "images/employ-4.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+      "position": "Creative Director"
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "imagePath": "images/employ-5.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+      "position": "Senior Data Scientist"
+    },
+    {
+      "id": 6,
+      "name": "Eva Davis",
+      "imagePath": "images/employ-6.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et placerat metus. Morbi aliquet felis sit amet erat finibus, ac condimentum ligula ornare.",
+      "position": "Support Team Lead"
+    }
+  ]
+  
